@@ -32,7 +32,8 @@ Encuadernación 0 cm posición del margen interno Izquierda
 # Portada
 
  La paginación inicia desde la portada en números arabios en la esquina superior derecha. Esta configuración puedes establecerla como predeterminada en Word o cualquier otra herramienta utizada.
-![[screenshot-1725327625225.png]]
+
+![Portada](screenshot-1725327625225.png)
 
 # Tipos de título
 
@@ -51,4 +52,5 @@ Empieza a escribir inmediatamente después del punto en los dos últimos niveles
 
 Cuando se requiera presentar información gráfica y organizada, usa el siguiente formato:
 
-![[screenshot-1725328233741.png]]
+![Tabla](screenshot-1725328233741.png)
+

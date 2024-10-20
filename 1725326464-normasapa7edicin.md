@@ -52,4 +52,4 @@ Empieza a escribir inmediatamente después del punto en los dos últimos niveles
 
 Cuando se requiera presentar información gráfica y organizada, usa el siguiente formato:
 
-![Tabla](screenshot-1725328233741.png)
+![Tabla](/imag/screenshot-1725328233741.png)
